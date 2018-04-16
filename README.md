@@ -1,5 +1,5 @@
-# Code-level Energy Hotspot Localization via Naive Spectrum Based Testing
-## Replication Package (EnviroInfo 2018)
+# Code-level Energy Hotspot Localization via Naive Spectrum Based Testing, replication Package (EnviroInfo 2018)
+
 This repository is a companion page for the paper _"Code-level Energy Hotspot Localization via Naive Spectrum Based Testing"_ submitted to [EnviroInfo 2018](http://www.enviroinfo2018.eu/).
 
 It contains all the material required to replicate our experiment, including (i) the software artifacts utilized as subjects (ii) the scripts utilized for data processing and statistical analysis, and (iii) the entirety of the raw and processed data gathered for the experiment.
@@ -9,9 +9,9 @@ Content
 ---------------
 The entirety of the experiment data required for the replication and analysis of the experiment are provided in three separate folders, namely:
 
-* [analysis_scripts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Script utilized for data processing and analysis.
-* [results](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Raw and processed results of the experiment
-* [software_artifacts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/software_artifacts) - Software artifacts adopted for the experiment.
+* [analysis_scripts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis%20script) - Script utilized for data processing and analysis.
+* [results](https://github.com/energyHotspots/EnviroInfo2018/tree/master/results) - Raw and processed results of the experiment
+* [software_artifact_(grep_v3)](https://github.com/energyHotspots/EnviroInfo2018/tree/master/software_artifact_(grep_v3)) - Software artifacts adopted for the experiment.
 
 
 For furtehr information on the content of the folder see the following Directory Structure Overview.
@@ -43,7 +43,7 @@ This reposisory is structured as follows:
      |      |--- number_of_calls_*.csv      Number of calls per line, function, and branch
      |
      |
-     |--- software_artifacts/               Source code of the subject and related artifacts 
+     |--- software_artifact_(grep_v3)/      Source code of the subject and related artifacts 
             |
             |
             |--- coverage/                  Coverage information of the utilized test suite
