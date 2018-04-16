@@ -25,9 +25,9 @@ This reposisory is structured as follows:
      |     
      |--- analysis_script/                  Analysis scirpt and formatted input data
      |      |
-     |      |--- grep_analysis.r            Analysis script utilize to process and analyze the experiment data
+     |      |--- grep_analysis.r            Analysis script utilized to process and analyze the experiment data
      |      |
-     |      |--- environment.RData          Analysis script utilize to process and analyze the experiment data 
+     |      |--- environment.RData          Formatted input data utilized for the analysis 
      |
      |
      |--- results/                          Totaliti of the results gathered in form of raw and processed data
