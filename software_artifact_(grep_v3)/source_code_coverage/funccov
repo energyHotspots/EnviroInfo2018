@@ -1,0 +1,326 @@
+Function 'Fexecute'
+Lines executed:55.56% of 27
+
+Function 'Fcompile'
+Lines executed:76.92% of 13
+
+Function 'EGexecute'
+Lines executed:62.71% of 59
+
+Function 'Ecompile'
+Lines executed:31.03% of 29
+
+Function 'Gcompile'
+Lines executed:100.00% of 26
+
+Function 'kwsmusts'
+Lines executed:82.35% of 17
+
+Function 'kwsinit'
+Lines executed:85.71% of 7
+
+Function 're_compile_pattern'
+Lines executed:100.00% of 8
+
+Function 'compile_range'
+Lines executed:91.67% of 12
+
+Function 'at_endline_loc_p'
+Lines executed:100.00% of 8
+
+Function 'at_begline_loc_p'
+Lines executed:100.00% of 5
+
+Function 'insert_op2'
+Lines executed:100.00% of 7
+
+Function 'insert_op1'
+Lines executed:100.00% of 7
+
+Function 'store_op2'
+Lines executed:100.00% of 5
+
+Function 'store_op1'
+Lines executed:100.00% of 4
+
+Function 'regex_compile'
+Lines executed:74.63% of 402
+
+Function 're_set_syntax'
+Lines executed:100.00% of 4
+
+Function 'init_syntax_once'
+Lines executed:88.89% of 9
+
+Function 'kwsexec'
+Lines executed:100.00% of 10
+
+Function 'cwexec'
+Lines executed:65.17% of 89
+
+Function 'bmexec'
+Lines executed:98.08% of 52
+
+Function 'kwsprep'
+Lines executed:91.84% of 49
+
+Function 'treenext'
+Lines executed:100.00% of 6
+
+Function 'hasevery'
+Lines executed:83.33% of 12
+
+Function 'treedelta'
+Lines executed:100.00% of 7
+
+Function 'treefails'
+Lines executed:100.00% of 16
+
+Function 'enqueue'
+Lines executed:100.00% of 6
+
+Function 'kwsincr'
+Lines executed:47.06% of 85
+
+Function 'kwsalloc'
+Lines executed:86.36% of 22
+
+Function 'dfamust'
+Lines executed:84.85% of 132
+
+Function 'resetmust'
+Lines executed:100.00% of 4
+
+Function 'inboth'
+Lines executed:73.68% of 19
+
+Function 'addlists'
+Lines executed:75.00% of 8
+
+Function 'comsubs'
+Lines executed:85.71% of 21
+
+Function 'enlist'
+Lines executed:84.62% of 26
+
+Function 'freelist'
+Lines executed:83.33% of 6
+
+Function 'ifree'
+Lines executed:100.00% of 4
+
+Function 'istrstr'
+Lines executed:100.00% of 6
+
+Function 'icpyalloc'
+Lines executed:100.00% of 2
+
+Function 'icatalloc'
+Lines executed:100.00% of 13
+
+Function 'dfacomp'
+Lines executed:95.65% of 23
+
+Function 'dfainit'
+Lines executed:100.00% of 11
+
+Function 'dfaexec'
+Lines executed:92.50% of 40
+
+Function 'build_state_zero'
+Lines executed:100.00% of 10
+
+Function 'build_state'
+Lines executed:79.49% of 39
+
+Function 'dfastate'
+Lines executed:90.63% of 128
+
+Function 'dfaanalyze'
+Lines executed:98.97% of 97
+
+Function 'epsclosure'
+Lines executed:68.57% of 35
+
+Function 'state_index'
+Lines executed:92.50% of 40
+
+Function 'delete'
+Lines executed:100.00% of 8
+
+Function 'merge'
+Lines executed:93.33% of 15
+
+Function 'insert'
+Lines executed:100.00% of 12
+
+Function 'copy'
+Lines executed:100.00% of 5
+
+Function 'dfaparse'
+Lines executed:85.00% of 20
+
+Function 'regexp'
+Lines executed:100.00% of 9
+
+Function 'branch'
+Lines executed:100.00% of 6
+
+Function 'closure'
+Lines executed:95.24% of 21
+
+Function 'copytoks'
+Lines executed:100.00% of 4
+
+Function 'nsubtoks'
+Lines executed:66.67% of 6
+
+Function 'atom'
+Lines executed:92.86% of 14
+
+Function 'addtok'
+Lines executed:100.00% of 13
+
+Function 'lex'
+Lines executed:76.55% of 226
+
+Function 'looking_at'
+Lines executed:80.00% of 5
+
+Function 'is_cntrl'
+Lines executed:100.00% of 1
+
+Function 'is_graph'
+Lines executed:100.00% of 1
+
+Function 'is_print'
+Lines executed:100.00% of 1
+
+Function 'is_alnum'
+Lines executed:100.00% of 1
+
+Function 'is_punct'
+Lines executed:100.00% of 1
+
+Function 'is_space'
+Lines executed:100.00% of 1
+
+Function 'is_xdigit'
+Lines executed:100.00% of 1
+
+Function 'is_digit'
+Lines executed:100.00% of 1
+
+Function 'is_lower'
+Lines executed:100.00% of 1
+
+Function 'is_upper'
+Lines executed:100.00% of 1
+
+Function 'is_alpha'
+Lines executed:100.00% of 1
+
+Function 'dfasyntax'
+Lines executed:100.00% of 6
+
+Function 'charclass_index'
+Lines executed:100.00% of 8
+
+Function 'equal'
+Lines executed:100.00% of 5
+
+Function 'notset'
+Lines executed:100.00% of 4
+
+Function 'zeroset'
+Lines executed:100.00% of 4
+
+Function 'copyset'
+Lines executed:100.00% of 4
+
+Function 'clrbit'
+Lines executed:100.00% of 3
+
+Function 'setbit'
+Lines executed:100.00% of 3
+
+Function 'tstbit'
+Lines executed:100.00% of 2
+
+Function 'xrealloc_1'
+Lines executed:80.00% of 5
+
+Function 'xmalloc_1'
+Lines executed:80.00% of 5
+
+Function 'xcalloc'
+Lines executed:80.00% of 5
+
+Function 'main'
+Lines executed:81.41% of 156
+
+Function 'prepend_default_options'
+Lines executed:21.43% of 14
+
+Function 'install_matcher'
+Lines executed:85.71% of 7
+
+Function 'setmatcher'
+Lines executed:100.00% of 5
+
+Function 'usage'
+Lines executed:38.46% of 13
+
+Function 'grepfile'
+Lines executed:57.50% of 40
+
+Function 'grep'
+Lines executed:82.81% of 64
+
+Function 'grepbuf'
+Lines executed:100.00% of 19
+
+Function 'prtext'
+Lines executed:100.00% of 31
+
+Function 'prpending'
+Lines executed:80.00% of 10
+
+Function 'prline'
+Lines executed:93.33% of 15
+
+Function 'print_offset_sep'
+Lines executed:100.00% of 7
+
+Function 'nlscan'
+Lines executed:100.00% of 5
+
+Function 'fillbuf'
+Lines executed:29.09% of 55
+
+Function 'reset'
+Lines executed:68.75% of 32
+
+Function 'page_alloc'
+Lines executed:87.50% of 8
+
+Function 'ck_atoi'
+Lines executed:100.00% of 6
+
+Function 'xrealloc'
+Lines executed:85.71% of 7
+
+Function 'xmalloc'
+Lines executed:80.00% of 5
+
+Function 'fatal'
+Lines executed:100.00% of 3
+
+Function 'error'
+Lines executed:100.00% of 6
+
+
+File 'grep.c'
+Lines executed:60.47% of 3443
+Creating 'grep.c.gcov'
+

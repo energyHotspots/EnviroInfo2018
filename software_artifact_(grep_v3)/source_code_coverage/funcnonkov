@@ -1,0 +1,72 @@
+Function 'stpcpy'
+Lines executed:0.00% of 6
+
+Function 'dfaerror'
+Lines executed:0.00% of 2
+
+Function 'savedir'
+Lines executed:0.00% of 29
+
+Function 'regfree'
+Lines executed:0.00% of 14
+
+Function 'regerror'
+Lines executed:0.00% of 12
+
+Function 'regexec'
+Lines executed:0.00% of 21
+
+Function 'regcomp'
+Lines executed:0.00% of 28
+
+Function 'bcmp_translate'
+Lines executed:0.00% of 7
+
+Function 'common_op_match_null_string_p'
+Lines executed:0.00% of 31
+
+Function 'alt_match_null_string_p'
+Lines executed:0.00% of 11
+
+Function 'group_match_null_string_p'
+Lines executed:0.00% of 28
+
+Function 're_match_2_internal'
+Lines executed:0.00% of 398
+
+Function 're_match_2'
+Lines executed:0.00% of 3
+
+Function 're_match'
+Lines executed:0.00% of 3
+
+Function 're_search_2'
+Lines executed:0.00% of 58
+
+Function 're_search'
+Lines executed:0.00% of 2
+
+Function 're_set_registers'
+Lines executed:0.00% of 10
+
+Function 're_compile_fastmap'
+Lines executed:0.00% of 90
+
+Function 'group_in_compile_stack'
+Lines executed:0.00% of 6
+
+Function 'kwsfree'
+Lines executed:0.00% of 5
+
+Function 'dfafree'
+Lines executed:0.00% of 24
+
+Function 'is_blank'
+Lines executed:0.00% of 2
+
+Function 'prepend_args'
+Lines executed:0.00% of 16
+
+Function 'grepdir'
+Lines executed:0.00% of 34
+
