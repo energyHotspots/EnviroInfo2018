@@ -9,9 +9,10 @@ Content
 ---------------
 The entirety of the experiment data required for the replication and analysis of the experiment are provided in three separate folders, namely:
 
+* [analysis_scripts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Script utilized for data processing and analysis.
+* [results](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Raw and processed results of the experiment
 * [software_artifacts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/software_artifacts) - Software artifacts adopted for the experiment.
-* [analysis_scripts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Script utilized for data processing and analysis.
-* [analysis_scripts](https://github.com/energyHotspots/EnviroInfo2018/tree/master/analysis_scripts) - Script utilized for data processing and analysis.
+
 
 For furtehr information on the content of the folder see the following Directory Structure Overview.
 
@@ -21,39 +22,38 @@ This reposisory is structured as follows:
 
     EnviroInfo2018
      .
-     |
-     |--- coverage/                         Test suite coverage information gathered from the experiment
-     |
-     |--- software_artifacts/               Source code of the subject and related artifacts 
-     |      |
-     |      |
-     |      |--- coverage/                  Coverage information of the utilized test suite
-     |      |
-     |      |--- source_code/               Source code of the experimental subject (grep v3)
-     |      |
-     |      |--- source_code_coverage/      Source code instrumented for test cases coverage information storage
-     |      |
-     |      |--- inputs/                    Input files required by test cases
-     |      |
-     |      |--- grep-test-suite.txt        Test suite utilized for the experiment
-     |
+     |     
      |--- analysis_script/                  Analysis scirpt and formatted input data
      |      |
      |      |--- grep_analysis.r            Analysis script utilize to process and analyze the experiment data
      |      |
-     |      |--- environment.RData          Analysis script utilize to process and analyze the experiment data
+     |      |--- environment.RData          Analysis script utilize to process and analyze the experiment data 
+     |
      |
      |--- results/                          Totaliti of the results gathered in form of raw and processed data
+     |      |
+     |      |--- graphs/                    Graphs generated from the data analysis processes
+     |      |
+     |      |--- measurement_baseline/      Raw data of the experiment baseline measurements
+     |      |
+     |      |--- measurement_grep/          Raw data of the experiment subject measurements
+     |      |
+     |      |--- energyResults_*.csv        Processed data per line, function, and branch coverage
+     |      |
+     |      |--- number_of_calls_*.csv      Number of calls per line, function, and branch
+     |
+     |
+     |--- software_artifacts/               Source code of the subject and related artifacts 
             |
-            |--- graphs/                    Graphs generated from the data analysis processes
             |
-            |--- measurement_baseline/      Raw data of the experiment baseline measurements
+            |--- coverage/                  Coverage information of the utilized test suite
             |
-            |--- measurement_grep/          Raw data of the experiment subject measurements
+            |--- source_code/               Source code of the experimental subject (grep v3)
             |
-            |--- energyResults_*.csv        Processed data per line, function, and branch coverage
+            |--- source_code_coverage/      Source code instrumented for test cases coverage information storage
             |
-            |--- number_of_calls_*.csv      Number of calls per line, function, and branch
-     
+            |--- inputs/                    Input files required by test cases
+            |
+            |--- grep-test-suite.txt        Test suite utilized for the experiment
      
   
